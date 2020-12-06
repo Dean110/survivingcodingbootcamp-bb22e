@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: Me and my experience as a coding boot camp student and instructor.
-img_path: images/kady-bosco-and-me.jpg
+img_path: images/kiki-and-ben-bw.jpeg
 template: page
 ---
 
