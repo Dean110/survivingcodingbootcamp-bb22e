@@ -1,16 +1,10 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work
-img_path: images/about.jpg
+subtitle: Me and my experience as a coding boot camp student and instructor.
+img_path: images/kady-bosco-and-me.jpg
 template: page
 ---
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+I'm **Benjamin Williams**, a software developer from Columbus, Ohio. After stints as a musician and chef, I finally became a software developer.  Before I got to this point I had studied almost three years towards a Bachelor of Fine Arts degree that didn't really help when I realized a career change was needed in my life.  So looking at starting over for a four year journey getting a Computer Science degree wasn't an attractive option. After listening to ads for software development boot camps on NPR, I did further research and decided to try taking 14 weeks instead of 4 years to get into software development as a career.  After a stint at in the banking industry, I came back to We Can Code IT to take a role as a Software Development Instructor.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
-
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+I treat software development as a professional trade, always trying to stay as current as possible in my professional tech stack: Java, Spring, JavaScript, and CSS.  I have taken up a handful of other languages and frameworks to explore how different tools work: Elixir, Phoenix, Scala, Node.js, NoSQL databases, React, and JamStack.  I believe that tested code is the best kind of code and champion Test Driven Development.  I also believe that diverse _and_ inclusive software teams are the way, and have strived to help provide equity in education to under represented people in tech. I have been recognized by GitHub as a [GitHub Campus Advisor](https://education.github.com/teachers/advisors), one of fewer than 300 educators world wide to receive the designation and the only in Columbus, Ohio.
